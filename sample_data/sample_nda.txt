@@ -1,0 +1,17 @@
+MUTUAL SERVICES AND NON-DISCLOSURE AGREEMENT
+
+This Agreement is made between Rahul Deshmukh (email: rahul@smallbiz.in, phone +91 98765 43210, PAN ABCDE1234F) and Apex Cloud Pvt Ltd.
+
+1. Non-Compete. The Customer agrees not to engage in any competing business anywhere in the world for a period of five years after this Agreement ends.
+
+2. Indemnification. The Customer shall indemnify and hold harmless the Provider against all claims, losses and damages of any kind without limit.
+
+3. Limitation of Liability. The Provider's liability is excluded entirely while the Customer remains fully liable for all damages.
+
+4. Term and Renewal. This Agreement renews automatically for successive one-year terms unless cancelled in writing at least ninety days before expiry.
+
+5. Confidentiality. Confidentiality obligations continue forever and survive termination indefinitely with no exceptions.
+
+6. Data. The Provider may use, share or sell Customer data and personal data to third parties for any purpose without consent.
+
+7. Governing Law. All disputes must be resolved by binding arbitration in a distant foreign jurisdiction at the expense of the Customer.
